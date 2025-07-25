@@ -1,0 +1,14 @@
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/bin/Debug/net8.0/MyLinqF1
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/bin/Debug/net8.0/MyLinqF1.deps.json
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/bin/Debug/net8.0/MyLinqF1.runtimeconfig.json
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/bin/Debug/net8.0/MyLinqF1.dll
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/bin/Debug/net8.0/MyLinqF1.pdb
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.AssemblyInfoInputs.cache
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.AssemblyInfo.cs
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.csproj.CoreCompileInputs.cache
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.dll
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/refint/MyLinqF1.dll
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.pdb
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/MyLinqF1.genruntimeconfig.cache
+/Users/colinduf/RiderProjects/MyLinqF1/MyLinqF1/obj/Debug/net8.0/ref/MyLinqF1.dll
